@@ -1,0 +1,23 @@
+{
+  "name": "restaurants.com",
+  "version": "1.0.0",
+  "description": "A Teksystem project for the Angular Bootcamp",
+  "main": "restaurants.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start" : "node restaurants.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Javascript"
+  ],
+  "author": "Delveri Chick",
+  "license": "MIT"
+}
